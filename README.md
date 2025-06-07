@@ -48,7 +48,7 @@ Managing crowds in real-time is difficult:
 
 ## 🧭 System Architecture Diagram
 
-> ![System Architecture](./A_detailed_flowchart_infographic_illustrates_the_.png)
+> ![System Architecture](./aicrowd_architecture.png)
 
 📌 **Legend**:
 - 🎥 Cameras ➜ 🧠 AI Model ➜ 📏 Logic Hub ➜ 📺 Dashboard ➜ 🚔 Human Action  
