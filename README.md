@@ -186,8 +186,8 @@ If you want:
 - 🛠️ Code base or starter project  
 - 📱 Mobile alert app mockup
 
-👉 Just ask. I’ll generate it for you in minutes.
+
 
 ---
-
-> 🚀 **Let’s build safer, smarter cities with AI.**
+## 📌 Project Status
+> 🚀The research phase of the AI Crowd Management System focuses on analyzing crowd behavior, exploring AI techniques for real-time monitoring, identifying challenges, and studying existing solutions to develop an effective management system.
