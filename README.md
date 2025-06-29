@@ -190,4 +190,4 @@ If you want:
 
 ---
 ## 📌 Project Status
-> 🚀The research phase of the AI Crowd Management System focuses on analyzing crowd behavior, exploring AI techniques for real-time monitoring, identifying challenges, and studying existing solutions to develop an effective management system.
+🚧 The development phase of the AI Crowd Management System is currently underway. We're actively building the real-time video analytics engine, integrating CCTV stream processing with AI-based crowd detection, implementing alert logic, and designing the admin dashboard. Core features like live crowd counting, alert triggering, and dashboard visualization are being tested and optimized for real-world use cases.
